@@ -6,4 +6,6 @@ echo '1 + 5 is: '. $var;
 
 //I was able to edit it here.
 
+//now we are into something
+
 ?>
